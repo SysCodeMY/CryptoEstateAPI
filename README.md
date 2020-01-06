@@ -4,7 +4,7 @@ An application program interface (API) is a set of routines, protocols, and tool
 # CryptoEstate API
 CryptoEstate is a blockchain-powered digital asset management platform aims to provide a secure, transparent and verifiable method to digitize real-world assets and manage ‘rights’ of creation, ownership, usage & transfer. Developers can build their own application or program to interact with CryptoEstate platform via API to view data that are allowed by CryptoEstate. 
 
-# API Guideline (For C# Language)
+# API Guideline 
 This guideline can be implemented in various programming language. In this document, there are four example of implementation of CryptoEstate API :
 
 - [C# Programming Language](https://github.com/SysCodeMY/CryptoEstateAPI/wiki/CryptoEstate-API-Implementation-on-C%23-Language)
